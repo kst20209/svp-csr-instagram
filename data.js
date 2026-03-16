@@ -76,7 +76,7 @@ const POSTS = [
     username: "jiwo0_o",
     userImage: PROFILE.profileImage,
     images: [
-      "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=1080&h=1350&fit=crop&q=80",
+      "assets/post-4.png",
     ],
     caption: "3일째 한 숨도 못 잤다\n머리가 안 돌아가\n밥도 안 먹었는데 배고프지도 않음\n\n.",
     likes: 7,
