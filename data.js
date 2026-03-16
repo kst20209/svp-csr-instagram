@@ -5,9 +5,9 @@
 // 프로필 정보 — 김지우 (jiwo0_o)
 const PROFILE = {
   username: "jiwo0_o",
-  displayName: "지우 🖤",
+  displayName: "지우",
   profileImage: "assets/profile.png",
-  bio: '2008.05.12 / 🎧🖤\n"아무도 모르게 사라지고 싶은 밤"',
+  bio: '2008.05.12 / 🎧🖤\n아무도 모르게 사라지고 싶은 밤',
   postsCount: 5,
   followersCount: 127,
   followingCount: 0,
@@ -22,7 +22,7 @@ const POSTS = [
     username: "jiwo0_o",
     userImage: PROFILE.profileImage,
     images: [
-      "https://images.unsplash.com/photo-1517483000871-1dbf64a6e1c6?w=1080&h=1350&fit=crop&q=80",
+      "assets/post-1.png",
     ],
     caption: "이제 다 괜찮아\n\n진짜 오랜만에 마음이 편하다\n그동안 고마웠어 다들\n\n.",
     likes: 12,
